@@ -1,7 +1,7 @@
 # testing_ekon
 Order Management
 - Login
-- Dahboard
+- Dashboard
 - User
 - Customer
 - Product
